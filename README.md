@@ -1,6 +1,6 @@
 # Autonomous Seafloor Mining Drone Management System
 
-A beginner-friendly software-only operations dashboard for managing drones, mining sites, missions, and recorded mineral inventory. It does not control hardware or implement telemetry, AI, GPS, authentication, payments, or blockchain features.
+Autonomous Seafloor Mining Drone Management System is a web application for managing underwater mining operations. It helps operators manage mining drones, sites, missions, and mineral inventory through a centralized dashboard using React, Spring Boot, and MySQL. It does not control hardware or implement telemetry, AI, GPS, authentication, payments, or blockchain features.
 
 ## Stack
 
